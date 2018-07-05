@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Links.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="fr">
+    <header>
+      <skl><external-file
+          href="Links.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">30</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">8</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10.2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="10.2.6758.15844"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>LinksLists</source><seg-source><mrk
+            mtype="seg"
+            mid="1">LinksLists</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Links</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Links</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Cross-references</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cross-references</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Text hyperlinks;Hyperlinks</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Text hyperlinks</mrk><mrk
+            mtype="seg"
+            mid="2">Hyperlinks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Popups</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Popups</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Footnotes</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Footnotes</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-madcap:footnote"
+        phase-name="pretrans"><source>Here is some general text for a footnote. Replace this with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is some general text for a footnote.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Replace this with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-madcap:footnote"
+        phase-name="pretrans"><source>Here is some general text for a footnote. Replace this with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is some general text for a footnote.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Replace this with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Links and Footnotes</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Links and Footnotes</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is some general text for a topic. Replace this with your own content. Here is some general text for a topic. Replace this with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is some general text for a topic.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Replace this with your own content.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Here is some general text for a topic.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">Replace this with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Cross-References</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Cross-References</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>These are best for linking to topics within the same project.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">These are best for linking to topics within the same project.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is an example of a cross-reference: See <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="../D_Images/Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Images&lt;/MadCap:xref&gt;</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is an example of a cross-reference: See <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="../D_Images/Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;Images&lt;/MadCap:xref&gt;</ph>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Text Hyperlinks</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Text Hyperlinks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>These are best for linking to external files outside of the project.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">These are best for linking to external files outside of the project.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is an example of a text hyperlink: See <bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="http://www.madcapsoftware.com/" target="_blank"&gt;</bpt>www.madcapsoftware.com<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is an example of a text hyperlink: See <bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="http://www.madcapsoftware.com/" target="_blank"&gt;</bpt>www.madcapsoftware.com<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Text Popup</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="General.Audience A">Text Popup</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is a <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>text popup<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>This is the text that displays when you click the popup.<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="General.Audience A">Here is a <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popup xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupHead&gt;</bpt>text popup<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupHead&gt;</ept><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:popupBody&gt;</bpt>This is the text that displays when you click the popup.<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popupBody&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:popup&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Footnotes</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Footnotes</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here is some general text for a topic. Replace this with your own content.<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:footnote style="mc-footnote-position: page;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;砻קยด7ตว融&lt;/MadCap:footnote&gt;</ph> Here is some general text for a topic. Replace this with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here is some general text for a topic.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Replace this with your own content.<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:footnote style="mc-footnote-position: page;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;砻קยด7ตว融&lt;/MadCap:footnote&gt;</ph></mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Here is some general text for a topic.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">Replace this with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
