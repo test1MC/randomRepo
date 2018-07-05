@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Bulleted lists</Key>
+        <OldValue>Bulleted lists</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Conditions</Key>
+        <OldValue>Conditions</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>block level</Key>
+        <OldValue>block level</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>character level</Key>
+        <OldValue>character level</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Cross-references</Key>
+        <OldValue>Cross-references</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Examples</Key>
+        <OldValue>Examples</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Footnotes</Key>
+        <OldValue>Footnotes</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Hyperlinks</Key>
+        <OldValue>Hyperlinks</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Images</Key>
+        <OldValue>Images</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>positioned left</Key>
+        <OldValue>positioned left</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>positioned right</Key>
+        <OldValue>positioned right</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>thumbnails</Key>
+        <OldValue>thumbnails</OldValue>
+        <NewValue>砻קยด12ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>within steps</Key>
+        <OldValue>within steps</OldValue>
+        <NewValue>砻קยด13ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Links</Key>
+        <OldValue>Links</OldValue>
+        <NewValue>砻קยด14ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Lists</Key>
+        <OldValue>Lists</OldValue>
+        <NewValue>砻קยด15ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>bulleted</Key>
+        <OldValue>bulleted</OldValue>
+        <NewValue>砻קยด16ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>multi-level</Key>
+        <OldValue>multi-level</OldValue>
+        <NewValue>砻קยด17ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>numbered</Key>
+        <OldValue>numbered</OldValue>
+        <NewValue>砻קยด18ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Multi-level lists</Key>
+        <OldValue>Multi-level lists</OldValue>
+        <NewValue>砻קยด19ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Notes</Key>
+        <OldValue>Notes</OldValue>
+        <NewValue>砻קยด20ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Numbered lists</Key>
+        <OldValue>Numbered lists</OldValue>
+        <NewValue>砻קยด21ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Popups</Key>
+        <OldValue>Popups</OldValue>
+        <NewValue>砻קยด22ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Quotations</Key>
+        <OldValue>Quotations</OldValue>
+        <NewValue>砻קยด23ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Tables</Key>
+        <OldValue>Tables</OldValue>
+        <NewValue>砻קยด24ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>patterned rows</Key>
+        <OldValue>patterned rows</OldValue>
+        <NewValue>砻קยด25ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Text hyperlinks</Key>
+        <OldValue>Text hyperlinks</OldValue>
+        <NewValue>砻קยด26ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Thumbnail images</Key>
+        <OldValue>Thumbnail images</OldValue>
+        <NewValue>砻קยด27ตว融</NewValue>
+    </Entry>
+</StringMap>

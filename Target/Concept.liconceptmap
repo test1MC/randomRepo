@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>ConditionsBlockElementsTables</Key>
+  <OldValue>ConditionsBlockElementsTables</OldValue>
+  <NewValue>ConditionsBlockElementsTables</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Images</Key>
+  <OldValue>Images</OldValue>
+  <NewValue>Images</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>LinksLists</Key>
+  <OldValue>LinksLists</OldValue>
+  <NewValue>LinksLists</NewValue>
+</Entry>
+</StringMap>

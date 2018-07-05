@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>ConditionsBlockElementsTables</Key>
+        <OldValue>ConditionsBlockElementsTables</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Images</Key>
+        <OldValue>Images</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>LinksLists</Key>
+        <OldValue>LinksLists</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+</StringMap>

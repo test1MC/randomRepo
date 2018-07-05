@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Bulleted lists</Key>
+  <OldValue>Bulleted lists</OldValue>
+  <NewValue>Bulleted lists</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Conditions</Key>
+  <OldValue>Conditions</OldValue>
+  <NewValue>Conditions</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>block level</Key>
+  <OldValue>block level</OldValue>
+  <NewValue>block level</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>character level</Key>
+  <OldValue>character level</OldValue>
+  <NewValue>character level</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Cross-references</Key>
+  <OldValue>Cross-references</OldValue>
+  <NewValue>Cross-references</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Examples</Key>
+  <OldValue>Examples</OldValue>
+  <NewValue>Examples</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Footnotes</Key>
+  <OldValue>Footnotes</OldValue>
+  <NewValue>Footnotes</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Hyperlinks</Key>
+  <OldValue>Hyperlinks</OldValue>
+  <NewValue>Hyperlinks</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Images</Key>
+  <OldValue>Images</OldValue>
+  <NewValue>Images</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>positioned left</Key>
+  <OldValue>positioned left</OldValue>
+  <NewValue>positioned left</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>positioned right</Key>
+  <OldValue>positioned right</OldValue>
+  <NewValue>positioned right</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>thumbnails</Key>
+  <OldValue>thumbnails</OldValue>
+  <NewValue>thumbnails</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>within steps</Key>
+  <OldValue>within steps</OldValue>
+  <NewValue>within steps</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Links</Key>
+  <OldValue>Links</OldValue>
+  <NewValue>Links</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Lists</Key>
+  <OldValue>Lists</OldValue>
+  <NewValue>Lists</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>bulleted</Key>
+  <OldValue>bulleted</OldValue>
+  <NewValue>bulleted</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>multi-level</Key>
+  <OldValue>multi-level</OldValue>
+  <NewValue>multi-level</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>numbered</Key>
+  <OldValue>numbered</OldValue>
+  <NewValue>numbered</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Multi-level lists</Key>
+  <OldValue>Multi-level lists</OldValue>
+  <NewValue>Multi-level lists</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Notes</Key>
+  <OldValue>Notes</OldValue>
+  <NewValue>Notes</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Numbered lists</Key>
+  <OldValue>Numbered lists</OldValue>
+  <NewValue>Numbered lists</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Popups</Key>
+  <OldValue>Popups</OldValue>
+  <NewValue>Popups</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Quotations</Key>
+  <OldValue>Quotations</OldValue>
+  <NewValue>Quotations</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Tables</Key>
+  <OldValue>Tables</OldValue>
+  <NewValue>Tables</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>patterned rows</Key>
+  <OldValue>patterned rows</OldValue>
+  <NewValue>patterned rows</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Text hyperlinks</Key>
+  <OldValue>Text hyperlinks</OldValue>
+  <NewValue>Text hyperlinks</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Thumbnail images</Key>
+  <OldValue>Thumbnail images</OldValue>
+  <NewValue>Thumbnail images</NewValue>
+</Entry>
+</StringMap>

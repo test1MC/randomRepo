@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="de" xml:lang="de" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\amontufar\Documents\My Translated Projects\Test3.liprjf" SourceControlDatabase="C:\Users\amontufar\Documents\My Translated Projects\Test3.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="89be3d5e-e19a-4d09-8876-9a78569201bb">
+    <ProjectFile Source="Target/OnlineTemplate.flprj" Target="Target/OnlineTemplate.flprj" />
+</LingoProject>
